@@ -1,0 +1,10 @@
+[Unit]
+Description=Run script final1 from boot
+After=mult-user.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/Documents/final1.py	    # Pas aan naar juiste directory
+User=pi 							                        # Pas aan naar juiste User
+
+[Install]
+WantedBy=multi-user.target
