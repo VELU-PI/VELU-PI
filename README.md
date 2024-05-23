@@ -3,5 +3,5 @@ Deze repository hoort bij de bachelorproef 'Identificatie en opsporing van invaz
 Geschreven door: Wolf Missotten, Cedric Billiet, Wolf De Witte, Kobe Lambert
 
 
-**Een korte demonstratie van het VELU-PI prototype is te zien op: https://youtu.be/8y1fkPXS5Oc
+Een korte demonstratie van het VELU-PI prototype is te zien op: https://youtu.be/8y1fkPXS5Oc
 
